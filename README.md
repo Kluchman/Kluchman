@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Caleb Kluchman
+## Hello! My name is Caleb Kluchman
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Kluchman/Kluchman"> 
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/caleb-kluchman-8580241a4/)
@@ -9,9 +9,9 @@
 ## Current and Past Projects include...<br />
 + NASA DEVELOP [NCEI](https://appliedsciences.nasa.gov/what-we-do/capacity-building/develop/nodes/northcarolina-ncei) | Urban Heat Research for the City of Asheville
 + Clark University [HERO Program](https://www.clarku.edu/departments/hero-program/) | Urban Forestry
-+ Clark University TA for Advanced Geospatial Analytics with Python with [Hamed Alemohammad](https://hamedalemo.github.io/)
++ Clark University Course Assistant for Advanced Geospatial Analytics with Python with [Hamed Alemohammad](https://hamedalemo.github.io/)
 
-+ 💡 More information can be found on my [LinkedIn](www.linkedin.com/in/giswu) | [CV](https://gisynw.github.io/YananWu-Files/YananWu_CV.pdf) | [Resume](https://gisynw.github.io/YananWu-Files/YananWu_Resume.pdf) 
++ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/caleb-kluchman-8580241a4/) | CV TBA | [Resume](https://docs.google.com/document/d/1OFsahwwNxAH6B628W67Hnmpj-L2Qnwk9ZtURHbF7HyY/edit?usp=sharing) 
 ## Get in touch
 ### Feel free to reach me out via:<br />
 - Email: [calebkluchman@gmail.com](mailto:calebkluchman@gmail.com)<br />
