@@ -1,4 +1,5 @@
 ## Hi there 👋, my name is Caleb Kluchman
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Kluchman/Kluchman"> 
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/caleb-kluchman-8580241a4/)
 ## Education: <br />
@@ -6,8 +7,9 @@
 + Graduate: Clark University MS GIS
 
 ## Current and Past Projects include...<br />
-+ Clark University [HERO Program](https://www.clarku.edu/departments/hero-program/) | Urban Forestry <br />
 + NASA DEVELOP [NCEI](https://appliedsciences.nasa.gov/what-we-do/capacity-building/develop/nodes/northcarolina-ncei) | Urban Heat Research for the City of Asheville
++ Clark University [HERO Program](https://www.clarku.edu/departments/hero-program/) | Urban Forestry
++ Clark University TA for Advanced Geospatial Analytics with Python with [Hamed Alemohammad](https://hamedalemo.github.io/)
 
 + 💡 More information can be found on my [LinkedIn](www.linkedin.com/in/giswu) | [CV](https://gisynw.github.io/YananWu-Files/YananWu_CV.pdf) | [Resume](https://gisynw.github.io/YananWu-Files/YananWu_Resume.pdf) 
 ## Get in touch
