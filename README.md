@@ -3,7 +3,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/caleb-kluchman-8580241a4/)
 ## Education: <br />
-+ Undergraduate: Clark University Geography (GIS track) and Data Science (GIS track) Double Major
++ Undergraduate: BA From Clark University Geography (GIS track) and Data Science (GIS track) Double Major
 + Graduate: Clark University MS GIS
 
 ## Current and Past Projects include...<br />
