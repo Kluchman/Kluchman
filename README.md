@@ -1,5 +1,4 @@
 ## Hello! My name is Caleb Kluchman
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Kluchman/Kluchman"> 
 + Visit my website! https://kluchman.github.io/
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/caleb-kluchman-8580241a4/)
