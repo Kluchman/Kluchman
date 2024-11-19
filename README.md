@@ -1,5 +1,4 @@
-## Hello! My name is Caleb Kluchman
-+ Visit my website! https://kluchman.github.io/
+## Hello! My name is Caleb Kluchman. Visit my website at https://kluchman.github.io/
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/caleb-kluchman-8580241a4/)
 ## Education: <br />
